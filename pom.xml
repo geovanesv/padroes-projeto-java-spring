@@ -54,6 +54,14 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<!-- OpenAPI/Swagger (adicionado manualmente) -->
+		<dependency>
+			<groupId>org.springdoc</groupId>
+			<artifactId>spring-boot-springdoc</artifactId>
+			<version>3.1.2</version>
+		</dependency>
+
 	</dependencies>
 	<dependencyManagement>
 		<dependencies>
