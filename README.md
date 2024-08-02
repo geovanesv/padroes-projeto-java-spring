@@ -13,7 +13,7 @@ Para iniciar este projeto, foi utilizado o [spring initializr](https://start.spr
 * Spring Boot: 3.3.2;
 * Dependencies: Spring Web, Spring Data JPA, H2 Database e OpenFeign.
 
-Dependência adicionada manualmente no `pom.xml`: [Springdoc OpenAPI UI v2.6.0](https://mvnrepository.com/artifact/org.springdoc/springdoc-openapi-ui/1.5.12).
+Dependência adicionada manualmente no `pom.xml`: [Springdoc OpenAPI UI v2.6.0](https://springdoc.org/).
 
 <hr>
 
